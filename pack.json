@@ -1,0 +1,10 @@
+{
+  "name": "Sky Games Background Music 2007",
+  "description": "Would you like to have the 2007 Sky Games song for your Steam Deck menu? Now you can! Complete with the sudden cut off that was originally played on the Sky Games menu, this will make you feel noustalgic for the classic Sky Games!",
+  "author": "sks2002Official",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
